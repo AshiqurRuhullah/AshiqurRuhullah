@@ -49,9 +49,9 @@
 ### Github Stats
 
 
-[linkedin]: https://www.linkedin.com/in/nafis-sadik-901185b4/
-[facebook]: https://www.fb.com/nafis.sadik.338
-[twitter]: https://www.twitter.com/nafis_sadik
+[linkedin]: https://www.linkedin.com/in/ashiqurruhullah/
+[facebook]: https://www.fb.com/H.N.Ashiqur.Ruhullah
+[twitter]: https://www.twitter.com/AshiqurRuhullah
 
 
 
