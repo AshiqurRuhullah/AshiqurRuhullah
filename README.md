@@ -1,13 +1,13 @@
 
 ## Hi, I'm H.N. Ashiqur Ruhullah 👋
 
-### I've been working as a Software Engineer Trainee since 27th March 2022. I'm experienced in Web Application. Currently...
+### I've been working as an Associate Software Engineer. I'm experienced in Web Applications. Currently...
 - 💼 Working as Software Engineer Trainee at [ERA Infotech Limited](http://www.erainfotechbd.com/)
 - 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Angular, Bootstrap, JQuery
 - 🌱 Learning vastly ASP.NET Core
 - 👯 I’m looking to collaborate on FullStack Web Application Development
 - 🤔 I’m looking for help with Microservice, DevOps
-- 💬 Ask me about any tech related stuff
+- 💬 Ask me about any tech-related stuff
 
 
 ### Social Networks
