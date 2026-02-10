@@ -59,13 +59,13 @@ I’m a software engineer focused on building reliable, scalable web application
 
 ### 🌐 Connect With Me
 - LinkedIn: [ashiqurruhullah](https://www.linkedin.com/in/ashiqurruhullah/)
-- Facebook: [H.N.Ashiqur.Ruhullah](https://www.fb.com/H.N.Ashiqur.Ruhullah)
+- Facebook: [H.N. Ashiqur.Ruhullah](https://www.facebook.com/H.N.Ashiqur.Ruhullah)
 - Twitter: [@AshiqurRuhullah](https://www.twitter.com/AshiqurRuhullah)
 
 ---
 
 ### 🎯 Career Goals
-- Become a strong **backend-focused full-stack engineer**
+- Become a strong **Software Engineer**
 - Design **scalable, production-ready systems**
 - Grow in **technical leadership and architecture**
 
