@@ -1,4 +1,4 @@
-## Hi, I'm H. N. Ashiqur Ruhullah 👋
+## Hi, I'm H. N. Ashiqur Ruhullah 👋  
 **Associate Software Engineer | Full-Stack Web Developer**
 
 I’m a software engineer focused on building reliable, scalable web applications using the .NET ecosystem. I enjoy solving real business problems with clean architecture and maintainable code.
@@ -7,10 +7,10 @@ I’m a software engineer focused on building reliable, scalable web application
 
 ### 👨‍💻 About Me
 - 💼 Associate Software Engineer at **[ERA Infotech Limited](http://www.erainfotechbd.com/)**
-- 🧩 Experienced in **ASP.NET Core MVC & Web API**
-- 🌐 Frontend development with **Angular, Bootstrap, jQuery**
-- 🗄️ Database experience with **Oracle & SQL Server**
-- 🔁 Practice **Clean Architecture** and layered application design
+- 🧩 Working with **ASP.NET Core MVC & Web API**
+- 🌐 Frontend: **Angular, Bootstrap, jQuery**
+- 🗄️ Databases: **Oracle, SQL Server**
+- 🔁 Architecture: **Clean Architecture, Layered Design**
 
 ---
 
@@ -18,36 +18,42 @@ I’m a software engineer focused on building reliable, scalable web application
 - Advanced **ASP.NET Core**
 - **Microservices architecture**
 - **DevOps fundamentals** (CI/CD, Docker basics)
-- Backend performance optimization and system design
+- Backend performance and system design
 
 ---
 
 ### 🤝 Collaboration & Interests
 - 👯 Open to collaborating on **Full-Stack Web Applications**
-- 🤔 Looking for guidance and experience in **Microservices and DevOps**
-- 💬 Ask me about **.NET, Web API, Angular, or backend design**
+- 🤔 Looking for help with **Microservices and DevOps**
+- 💬 Ask me about **.NET, Web API, Angular, backend design**
 
 ---
 
 ### 🛠 Tech Stack
 
 #### Languages
-![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="22" height="22" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22" height="22" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22" height="22" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript" />
+</p>
 
 #### Frameworks & Libraries
-![.NET](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
-![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
-![jQuery](https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="22" height="22" alt=".NET Core" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="22" height="22" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="22" height="22" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="22" height="22" alt="jQuery" />
+</p>
 
 #### Tools
-![Visual Studio](https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg)
-![VS Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="22" height="22" alt="Visual Studio" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22" height="22" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22" height="22" alt="GitHub" />
+</p>
 
 ---
 
@@ -60,7 +66,7 @@ I’m a software engineer focused on building reliable, scalable web application
 
 ### 🎯 Career Goals
 - Become a strong **backend-focused full-stack engineer**
-- Design **scalable, production-grade systems**
+- Design **scalable, production-ready systems**
 - Grow in **technical leadership and architecture**
 
 ---
