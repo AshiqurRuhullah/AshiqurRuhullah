@@ -1,62 +1,68 @@
+## Hi, I'm H. N. Ashiqur Ruhullah 👋
+**Associate Software Engineer | Full-Stack Web Developer**
 
-## Hi, I'm H.N. Ashiqur Ruhullah 👋
+I’m a software engineer focused on building reliable, scalable web applications using the .NET ecosystem. I enjoy solving real business problems with clean architecture and maintainable code.
 
-### I've been working as an Associate Software Engineer. I'm experienced in Web Applications. Currently...
-- 💼 Working as Associate Software Engineer at [ERA Infotech Limited](http://www.erainfotechbd.com/)
-- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Angular, Bootstrap, JQuery
-- 🌱 Learning vastly ASP.NET Core
-- 👯 I’m looking to collaborate on FullStack Web Application Development
-- 🤔 I’m looking for help with Microservice, DevOps
-- 💬 Ask me about any tech-related stuff
+---
 
+### 👨‍💻 About Me
+- 💼 Associate Software Engineer at **[ERA Infotech Limited](http://www.erainfotechbd.com/)**
+- 🧩 Experienced in **ASP.NET Core MVC & Web API**
+- 🌐 Frontend development with **Angular, Bootstrap, jQuery**
+- 🗄️ Database experience with **Oracle & SQL Server**
+- 🔁 Practice **Clean Architecture** and layered application design
 
-### Social Networks
-[<img align="left" alt="ashiqurruhullah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="H.N.Ashiqur.Ruhullah | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="AshiqurRuhullah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+---
 
+### 🌱 Currently Learning
+- Advanced **ASP.NET Core**
+- **Microservices architecture**
+- **DevOps fundamentals** (CI/CD, Docker basics)
+- Backend performance optimization and system design
 
-<p>&nbsp;</p>
+---
 
+### 🤝 Collaboration & Interests
+- 👯 Open to collaborating on **Full-Stack Web Applications**
+- 🤔 Looking for guidance and experience in **Microservices and DevOps**
+- 💬 Ask me about **.NET, Web API, Angular, or backend design**
 
-### Languages
-<img align="left" alt="C Sharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+---
 
+### 🛠 Tech Stack
 
-<p>&nbsp;</p>
+#### Languages
+![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
-### Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+#### Frameworks & Libraries
+![.NET](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
+![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
+![jQuery](https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg)
 
-<p>&nbsp;</p>
+#### Tools
+![Visual Studio](https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg)
+![VS Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
+![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
+![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
 
+---
 
-### Frameworks
+### 🌐 Connect With Me
+- LinkedIn: [ashiqurruhullah](https://www.linkedin.com/in/ashiqurruhullah/)
+- Facebook: [H.N.Ashiqur.Ruhullah](https://www.fb.com/H.N.Ashiqur.Ruhullah)
+- Twitter: [@AshiqurRuhullah](https://www.twitter.com/AshiqurRuhullah)
 
-<img align="left" alt="JQuery" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg" />
-<img align="left" alt="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
+---
 
+### 🎯 Career Goals
+- Become a strong **backend-focused full-stack engineer**
+- Design **scalable, production-grade systems**
+- Grow in **technical leadership and architecture**
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+---
 
-
-### Github Stats
-
-
-[linkedin]: https://www.linkedin.com/in/ashiqurruhullah/
-[facebook]: https://www.fb.com/H.N.Ashiqur.Ruhullah
-[twitter]: https://www.twitter.com/AshiqurRuhullah
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+⭐ If you find my work useful, feel free to star a repository and connect!
